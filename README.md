@@ -1,4 +1,4 @@
-# ಸಂಕುಲ - ಸೃಜನಶೀಲ ಕಲೆಗಳ ದೈಮಾಸಿಕ ಸಂಚಯ
+# ಸಂಕುಲ - ಸೃಜನಶೀಲ ಕಲೆಗಳ ದ್ವೈಮಾಸಿಕ ಸಂಚಯ
 
 Digital archive hosted at **https://sankula.sanchaya.net**
 
